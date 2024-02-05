@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste React App for Tijin",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
